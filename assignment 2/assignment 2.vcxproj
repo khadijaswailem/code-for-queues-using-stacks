@@ -127,9 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="attempt 2.cpp" />
-    <ClCompile Include="assignment 2.cpp" />
-    <ClCompile Include="reverse.cpp" />
+    <ClCompile Include="assignment 2 attmpt 2.cpp" />
+    <ClCompile Include="assigment 2 attmpt 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

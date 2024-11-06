@@ -15,13 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="assignment 2.cpp">
+    <ClCompile Include="assigment 2 attmpt 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="attempt 2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="reverse.cpp">
+    <ClCompile Include="assignment 2 attmpt 2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
