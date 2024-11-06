@@ -274,9 +274,11 @@ Stack1<ITEM>::~Stack1() { }
 
 //QUEUE CLASS 
 template <typename ITEM>
+
 class Queue :public Stack1 <ITEM> {
 private:
 	Stack1 <ITEM> s;
+
 
 public:
 	Queue();
